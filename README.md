@@ -1,4 +1,4 @@
-# projeto_perguntas
+# DiceRoll
 
 A new Flutter project.
 
